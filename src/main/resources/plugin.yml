@@ -1,0 +1,7 @@
+name: CustomEnchants
+version: ${project.version}
+main: org.cathal02.customenchants.CustomEnchants
+api-version: 1.13
+commands:
+  enchanter:
+    usage: /enchanter
